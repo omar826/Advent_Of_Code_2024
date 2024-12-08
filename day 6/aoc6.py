@@ -1,5 +1,3 @@
-#write a program to read a file with each line containing 2 numbers separated by spaces
-#add first number in each line to list1 and second number to list2
 file_path = "C:/Users/omar2/OneDrive/Desktop/UMC202L/aoc6.txt"
 with open(file_path, "r") as file:
     lines1 = file.readlines()
